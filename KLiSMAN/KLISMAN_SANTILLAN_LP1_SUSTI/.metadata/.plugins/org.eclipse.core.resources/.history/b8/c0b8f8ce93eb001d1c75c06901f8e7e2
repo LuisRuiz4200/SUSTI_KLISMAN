@@ -1,0 +1,29 @@
+package conexion;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class MySqlConexion {
+	
+	Connection con = null;
+	
+	
+	public void conectar() {
+		
+		String url = "jdbc:mysql://localhost:3306/bdtambo";
+		String usuario="root";
+		String password="mysql";
+		
+		try {
+			
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			
+			con = DriverManager.getConnection(url + usuario + password);
+			
+		}catch (Exception ex) {
+			
+		}
+		
+	}
+	
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\lr270\Downloads\KLiSMAN\KLISMAN_SANTILLAN_LP1_SUSTI\.metadata\.plugins\org.eclipse.jdt.core
+4137074092.index
+2589105401.index
+3421449806.index
+1865797976.index

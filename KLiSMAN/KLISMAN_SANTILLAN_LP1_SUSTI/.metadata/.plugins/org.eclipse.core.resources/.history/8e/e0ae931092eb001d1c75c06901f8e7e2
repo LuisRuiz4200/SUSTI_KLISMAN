@@ -1,0 +1,22 @@
+package conexion;
+
+import java.sql.Connection;
+
+public class MySqlConexion {
+	
+	Connection con;
+	
+	
+	public void conectar() {
+		
+		try {
+			
+			
+			
+		}catch (Exception ex) {
+			
+		}
+		
+	}
+	
+}

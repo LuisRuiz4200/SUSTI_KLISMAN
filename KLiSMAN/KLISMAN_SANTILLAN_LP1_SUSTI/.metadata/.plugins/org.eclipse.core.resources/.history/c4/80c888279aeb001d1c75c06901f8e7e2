@@ -1,0 +1,8 @@
+package clase;
+
+public class Comprobante {
+	private String idVenta;
+	private String idCliente;
+	private Date fechaVenc;
+	private double total;
+}

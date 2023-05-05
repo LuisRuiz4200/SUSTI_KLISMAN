@@ -1,0 +1,6 @@
+package clase;
+
+public class Comprobante {
+	private String idVenta;
+	private String idCliente;
+}
