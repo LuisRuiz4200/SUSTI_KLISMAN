@@ -1,7 +1,0 @@
-package interfaz;
-
-public interface ComprobanteInterfaz {
-	
-	public List<Comprobante> listarComprobante():
-
-}
